@@ -1,0 +1,24 @@
+{
+  "name": "test-next-apollo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "apollo-boost": "^0.1.20",
+    "graphql": "^14.0.2",
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "^7.0.2",
+    "react": "^16.6.3",
+    "react-apollo": "^2.3.1",
+    "react-dom": "^16.6.3"
+  }
+}
